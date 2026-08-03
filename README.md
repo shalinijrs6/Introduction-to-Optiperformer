@@ -1,20 +1,13 @@
 # Introduction-to-Optiperformer
-
-
 ## Aim
 Download and install OptiPerformer software on your computer and run a sample file.
-
 ## Software required
 Optiwave introduces OptiPerformer, a free photonic design automation tool which harnesses the full power of OptiSystem and creates specific dynamic design scenarios which can be used by students.
-
 The system is *instrumented* with:
 - An optical power meter at the input to the receiver (or the output of the fiber)  
 - A bit error rate (BER) analyzer
-
 ---
-
 ## Procedure
-
 1. Download and install OptiPerformer from the [optiwave.com](https://optiwave.com) website.
 2. Copy the `Introduction_OptiPerformer.osp` file to your PC.
 3. Start OptiPerformer.
@@ -36,8 +29,11 @@ The system is *instrumented* with:
    - Use the forward/reverse buttons in the lower left to step through iterations.  
    - Note changes in received power and BER display (eye diagram, Q factor, BER) with fiber length.
 ---
+## Tabulation
+<img width="1600" height="696" alt="WhatsApp Image 2026-08-03 at 1 50 13 PM" src="https://github.com/user-attachments/assets/651c04b8-c236-4fb7-92b1-b2bea8f3636d" />
+## Simulation
+<img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/a02a2aac-f255-4527-b244-b173d6fe1a6d" />
+
 ## Result
-
+Thus, the OptiPerformer software was successfully installed, and the given sample file was executed successfully.
 ---
-
-
